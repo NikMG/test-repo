@@ -4,11 +4,11 @@ const cacheName = 'app-name-cache';
 
 // Список ресурсов для кэширования
 const resourcesToCache = [
-  '/',
-  'index.html',
-  'favicon.ico',
-  'logo512.png',
-  'logo192.png',
+  './',
+  './index.html',
+  './favicon.ico',
+  './logo512.png',
+  './logo192.png',
 ];
 
 // Установка
